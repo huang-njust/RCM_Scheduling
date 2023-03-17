@@ -6,7 +6,7 @@ They are developed via C#.
 
 For more information about its procedures, please refer to:
 
-[1] Bo Huang, MengChu Zhou, XiaoYu Sean Lu, and Abdullah Abusorrah. Scheduling of Resource Allocation Systems with Timed Petri Nets: A Survey. ACM Computing Surveys, pp. 1-28, 2022, DOI: 10.1145/3570326.
+[1]	Bo Huang, MengChu Zhou, XiaoYu Sean Lu, and Abdullah Abusorrah. Scheduling of Resource Allocation Systems with Timed Petri Nets: A Survey. ACM Computing Surveys, Feb. 2023, 55(11): 1-27.
 
 [2] Bo Huang, MengChu Zhou, Abdullah Abusorrah, Khaled Sedraoui. Scheduling Robotic Cellular Manufacturing Systems with Timed Petri Net, A* Search and Admissible Heuristic Function. IEEE Transactions on Automation Science and Engineering, Jan. 2022, 19(1): 243-250.
 
